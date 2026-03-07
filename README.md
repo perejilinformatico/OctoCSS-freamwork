@@ -1,6 +1,6 @@
 # Css Freamwork OctoCSS 🐙
 
-![alt text](assets/icon.jpg)
+![alt text](assets/icon.png)
 
 Un freamwork para componentes ya listos y personalizables al gusto
 Esta rama "main" se encuetra el proyecto de codigo abierto para que
