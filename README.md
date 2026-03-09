@@ -115,3 +115,48 @@ Agrege un padding simple
 .p-4 { padding: 40px; }
 ```
 
+# Cambios
+se realizaron cambios para agregar cosas utiles
+
+```css
+.pt-2 { padding-top: 10px; }
+.pb-2 { padding-bottom: 10px; }
+.pl-2 { padding-left: 10px; }
+.pr-2 { padding-right: 10px; }
+.text-white { color: white; }
+.text-black { color: black; }
+.text-gray { color: gray; }
+.text-blue { color: #3b82f6; }
+.text-red { color: #ef4444; }
+.text-green { color: #22c55e; }
+.m-1 { margin: 5px; }
+.m-2 { margin: 10px; }
+.m-3 { margin: 20px; }
+.m-4 { margin: 40px; }
+.mt-2 { margin-top: 10px; }
+.mb-2 { margin-bottom: 10px; }
+.ml-2 { margin-left: 10px; }
+.mr-2 { margin-right: 10px; }
+.border { border: 1px solid #ddd; }
+.border-dark { border: 1px solid #333; }
+.border-white { border: 1px solid #ffffff; }
+.border-black { border: 1px solid #000000; }
+.border-gray { border: 1px solid #9ca3af; }
+.border-light { border: 1px solid #e5e7eb; }
+.border-none { border: none; }
+.text-center { text-align: center; }
+.text-left { text-align: left; }
+.text-right { text-align: right; }
+.rounded { border-radius: 5px; }
+.rounded-md { border-radius: 10px; }
+.rounded-lg { border-radius: 20px; }
+.rounded-full { border-radius: 999px; }
+.w-25 { width: 25%; }
+.w-50 { width: 50%; }
+.w-75 { width: 75%; }
+.w-100 { width: 100%; }
+.h-25 { height: 25%; }
+.h-50 { height: 50%; }
+.h-100 { height: 100%; }
+```
+
