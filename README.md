@@ -2,10 +2,11 @@
 
 ![alt text](assets/icon.png)
 
-Un freamwork para componentes ya listos y personalizables al gusto
+Un freamwork para componentes ya listos y personalizables al gusto.
 Esta rama "main" se encuetra el proyecto de codigo abierto para que
 la gente quiera aportar algo, abra actualizaciones sobre los cambio
-s y tambien nuevas ramas para cualquier cambio que quieran hacer :)
+s y tambien nuevas ramas para cualquier cambio que quieran hacer, el freamwork usa
+flexbox principalmente :)
 
 ## Card Component
 
